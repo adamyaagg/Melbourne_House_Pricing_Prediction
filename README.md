@@ -14,6 +14,6 @@ Successfully predicted Melbourne house pricing dataset using data analysis techn
 <br>
 • Utilized Box plots and distribution plots to visualize the distribution of data and identify outliers.
 <br>
-• Used Catplot to visualize relationships between variables and understand their dependencies.
+• Used Catplot graph to visualize relationships between variables and understand their dependencies.
 <br>
 • Conducted covariance and correlation analysis to quantify the relationships between variables.
